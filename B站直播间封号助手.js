@@ -6,7 +6,7 @@
 // @author         Misha
 // @author         andywang425
 // @description    优化直播封号体验
-// @description:en Improve live viewing experience
+// @description:en Improve live banning experience
 // @homepageURL    https://github.com/Mishasama/BLTH-BANNER
 // @supportURL     https://github.com/Mishasama/BLTH-BANNER/issues
 // @icon           https://z4a.net/images/2022/09/15/script-icon.png
@@ -6817,7 +6817,7 @@
    */
   function fixVersionDifferences(API, version) {
     // 添加新的修复后需修改版本号
-    if (versionStringCompare(SP_CONFIG.storageLastFixVersion, "6.0.3.1") >= 0) return;
+    if (versionStringCompare(SP_CONFIG.storageLastFixVersion, "6.0.2.1") >= 0) return;
     // 修复变量类型错误
     const configFixList = ['AUTO_GIFT_ROOMID', 'COIN_UID'];
     if (!configFixList.every(i => Array.isArray(API.CONFIG[i]))) {
@@ -7251,8 +7251,8 @@
   };
   /**
    * 防抖
-   * @param {function} func
-   * @param {number} wait
+   * @param {function} func 
+   * @param {number} wait 
    * @returns {function}
    */
   function debounce(func, wait) {
