@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name           B站直播间挂机助手（巡管摸鱼版）
+// @name           B站直播间封号助手（巡管摸鱼版）
 // @name:zh        B站直播间摸鱼助手
 // @name:en        Bilibili Live GM Helper
 // @namespace      https://github.com/Mishasama/BLTH-BANNER
 // @author         Misha
 // @author         andywang425
-// @description    优化直播观看体验
+// @description    优化直播封号体验
 // @description:en Improve live viewing experience
 // @homepageURL    https://github.com/Mishasama/BLTH-BANNER
 // @supportURL     https://github.com/Mishasama/BLTH-BANNER/issues
