@@ -5,7 +5,7 @@
 
 ### 安装方法
 
-###  点击 [这里](https://github.com/Mishasama/BLTH-BANNER/raw/master/B%E7%AB%99%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8C%82%E6%9C%BA%E5%8A%A9%E6%89%8B.user.js) 从 GitHub 安装脚本
+###  点击 [这里](https://github.com/Mishasama/BLTH-BANNER/raw/master/B%E7%AB%99%E7%9B%B4%E6%92%AD%E9%97%B4%E5%B0%81%E5%8F%B7%E5%8A%A9%E6%89%8B.user.js) 从 GitHub 安装脚本
 <!--
 ### 2. 点击 [BLTH_greasyfork](https://greasyfork.org/zh-CN/scripts/406048-b%E7%AB%99%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8C%82%E6%9C%BA%E5%8A%A9%E6%89%8B) 前往 [greasyfork](https://greasyfork.org) 安装脚本
 
