@@ -1,16 +1,16 @@
 <p align ="center"><img src="https://gcore.jsdelivr.net/gh/andywang425/BLTH@7d7ca494edd314806460e24c6b59be8ae1bd7dc6/img/script-icon.png"></p>
-<p align="center"><img src="https://img.shields.io/badge/TamperMonkey_4.12-pass-green.svg" alt="TamperMonkey 4.12"> <img src="https://img.shields.io/badge/Violentmonkey_2.12.14-pass-green.svg" alt="Violentmonkey 2.12.14"> <a href="https://github.com/andywang425/BLTH/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License"> <a href="https://jq.qq.com/?_wv=1027&k=fCSfWf1O"> <a href="https://github.com/andywang425/BLTH/stargazers"><img src="https://img.shields.io/github/stars/andywang425/BLTH?style=flat" alt="Stars"></a> <a href="https://github.com/andywang425/BLTH/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/andywang425/BLTH"></a></p>
+<p align="center"><img src="https://img.shields.io/badge/TamperMonkey_4.12-pass-green.svg" alt="TamperMonkey 4.12"> <img src="https://img.shields.io/badge/Violentmonkey_2.12.14-pass-green.svg" alt="Violentmonkey 2.12.14"> <a href="https://github.com/andywang425/BLTH/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-AGPL--3.0-green" alt="AGPL-3.0 License"> <a href="https://jq.qq.com/?_wv=1027&k=fCSfWf1O"> <a href="https://github.com/andywang425/BLTH/stargazers"><img src="https://img.shields.io/github/stars/andywang425/BLTH?style=flat" alt="Stars"></a> <a href="https://github.com/andywang425/BLTH/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/andywang425/BLTH"></a></p>
 <p align="center"><a href="https://jq.qq.com/?_wv=1027&k=9refOc8c"><img src="https://img.shields.io/badge/QQ%20Group-657763329-yellow" alt="QQ Group"></a></p>
-<h1 align="center">B站直播间挂机助手</h1>
+<h1 align="center">B站直播间封号助手</h1>
 
 ### 安装方法
 
-### 1. 点击 [BLTH_github](https://raw.githubusercontent.com/andywang425/BLTH/master/B%E7%AB%99%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8C%82%E6%9C%BA%E5%8A%A9%E6%89%8B.user.js) 从 github 安装脚本
-
+###  点击 [这里](https://raw.githubusercontent.com/Mishasama/BLTH-BANNER/master/B%E7%AB%99%E7%9B%B4%E6%92%AD%E9%97%B4%E5%B0%81%E5%8F%B7%E5%8A%A9%E6%89%8B.js) 从 GitHub 安装脚本
+<!--
 ### 2. 点击 [BLTH_greasyfork](https://greasyfork.org/zh-CN/scripts/406048-b%E7%AB%99%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8C%82%E6%9C%BA%E5%8A%A9%E6%89%8B) 前往 [greasyfork](https://greasyfork.org) 安装脚本
 
 ### 3. 点击 [BLTH_openuserjs](https://openuserjs.org/scripts/andywang425/B%E7%AB%99%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8C%82%E6%9C%BA%E5%8A%A9%E6%89%8B) 前往 [openuserjs](https://openuserjs.org) 安装脚本
-
+-->
 ---
 
 ## 使用方法
@@ -39,7 +39,7 @@
 <li>快捷购买粉丝勋章</li>
 <li>发弹幕前自动佩戴当前直播间的粉丝勋章</li>
 <li>隐身入场</li><br>
-以及其他能优化直播观看体验的功能。
+以及其他能优化直播管理体验的功能。
 
 ---
 
@@ -56,19 +56,19 @@
         <td align ="center">压缩</td>
     </tr>
     <tr>
-        <td align ="center">github</td>
+        <td align ="center">GitHub</td>
         <td align ="center">✔</td>
-        <td align ="center">✔</td>
+        <td align ="center">✖</td>
     </tr>
     <tr>
-        <td align ="center">greasyfork</td>
-        <td align ="center">✔</td>
-        <td align ="center">/</td>
+        <td align ="center">GreasyFork</td>
+        <td align ="center">✖</td>
+        <td align ="center">✖</td>
     </tr>
     <tr>
-        <td align ="center">openuserjs</td>
-        <td align ="center">✔</td>
-        <td align ="center">/</td>
+        <td align ="center">OpenUserJS</td>
+        <td align ="center">✖</td>
+        <td align ="center">✖</td>
     </tr>
 </table>
 
@@ -92,8 +92,8 @@
 
 ### 关于反馈
 
-- 如果使用脚本过程中遇到问题，可以先按上述步骤[开启控制台日志](#控制台日志)，然后关掉无关功能再次运行脚本并在控制台中寻找相关错误信息。若能找到请在反馈 bug 时附上这些控制台日志。
-- 反馈 bug 请点击[bug_report](https://github.com/andywang425/BLTH/issues/new?assignees=dong-jpg&labels=bug&template=bug_report.yaml)。
+- 如果使用脚本过程中遇到问题，可以先按上述步骤[开启控制台日志](#控制台日志)，然后关掉无关功能再次运行脚本并在控制台中寻找相关错误信息。若能找到请在反馈 Bug 时附上这些控制台日志。
+- 反馈 Bug 请点击 [BUG 反馈](https://github.com/Mishasama/BLTH-BANNER/issues/new?assignees=dong-jpg&labels=bug&template=bug_report.yaml)。
 
 ### 用户交流群
 
@@ -121,9 +121,9 @@
 
 # 许可证
 
-本项目以`MIT`许可证开源。
+本项目以`AGPL-3.0`许可证开源。
 
-<a href="https://github.com/andywang425/BLTH/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/andywang425/BLTH?style=for-the-badge"></a>
+<a href="https://github.com/Mishasama/BLTH-BANNER/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/Mishasama/BLTH-BANNER?style=for-the-badge"></a>
 
 ---
 
